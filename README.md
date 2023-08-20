@@ -79,5 +79,15 @@ Performed EDA and tried answering the following questions:
  Q18) Which type of room give highest revenue ?  
  Q19) How many nights stay will accounts for maximum revenue?  
  Q20) Which meal type is the  most preferred meal of customers?  
- Q21) Which agent has booked most hotel and generate more revenue ?  
- Q22) Do lead time and days in waiting list affect cancellation ?  
+ Q21) Which agent has booked the most hotel and generate more revenue?
+
+ 
+Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:  
+* Bar Plot.
+* Scatter Plot.
+* Pie Chart.
+* Line Plot.
+* Heatmap.
+* Box Plot.
+
+ 
