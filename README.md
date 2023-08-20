@@ -82,12 +82,56 @@ Performed EDA and tried answering the following questions:
  Q21) Which agent has booked the most hotel and generate more revenue?
 
  
-Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:  
+Mainly performed by using following graph and plots  using Matplotlib and Seaborn library :  
 * Bar Plot.
 * Scatter Plot.
 * Pie Chart.
 * Line Plot.
 * Heatmap.
-* Box Plot.
+* Box Plot.  
+## **Univariate Analysis:**  
+Performed univariate analysis and made the following conclusions:  
+ 1.) Agent no. 9 has made most number of bookings.  
+ 2.) Best adr generating rooms H and G. Hotels should increase the no. of room types A and H to maximise revenue.  
+ 3.) The most popular meal type is BB(Breakfast).  
+ 4.) Around 61% bookings are for City hotel and 39% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel.  
+ 5.) The best market segment for bookings is Online TA.  
+ 6.) July- August are the busiest and most profitable months for both type of hotels.   
+ 7.) Most of the guests came from european countries, with highest number of guests from Portugal.  
+ 8.) Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.  
+ 9.) Their are only 3.91% repeated customers
+ 10.) Out of all around 27% bookings are cancelled.
+ 11.) Portugal, United Kingdom, France, Spain are the countries with most customers.
 
- 
+
+## **Bivariate Analysis :**  
+We tried to answer following questions
+ 1.) Adr of city Hotel is higher than Resort Hotel aound 11.  
+ 2.) Online TA is best marketing segment to attract customer(59%).  
+ 3.) 64.2% bookings are done by couples(onlt two adults as guests).  
+ 4.) More than 90% bookings in non refund catagory are cancelled.  
+ 5.) ADR decreases with increase in the number of night stay showing how customers will get a better deal for longer stayes.
+ 6.) For lead time and total night stay their is no such corelation for practical situations (night stay< 50days & lead time < 50days) but for whole dataset it shows a inverse relationship.  
+ 7.) Friday has highest number of 2 day visit,which can be weekend holidays. 
+ ## **Inferences and Conclusion**
+ We’ve drawn many inferences from the above analysis. Here’s a summary of a few of them:
+1. City hotels(61.13%) receive more guests throughout the year compared to Resort hotels(38.87%).
+2.The average ADR for city hotel is more than resort hotel which is around 11.
+3. The booking has increased during the three year period, with maximum in 2016 and a little decrease in 2017. Also, The maximum booking are in thr month of July and August the reason behind it can be holiday season in various countries, weather good for vacction and summer in colleges and schools. Moreover the least are in the month of January, November and December.
+4. With longer night stay the customers usually get better deal hence the ADR decreases with longer stay.
+5. Online TA booking are around 60% followed by offline TA/TO (15.89%) and then Direct booking (13.5%). Promotions and offers should be used to increase the direct booking.
+6. Out of all the hotel booking around 80% is done by TA/TO (Travel Agent/ Tour Operator) hence we shold be focused on this and work toward increasing Direct Distribution channel (14.86%).
+7. Out of all the booking total 27.49% are being canceled hence seeting Non-refundable Rates, Collect deposits, and implement more rigid cancellation policies can tackle this.
+8. Most number of guests are couples and only families prefer both city as well as resort hotels almost equally.
+9. In all only 3.91% are repeated guests, Low number of repeated guests. Hotels need to target repeated guests since retaining a customer is way less expensive than gaining a new one.
+10. It appears that a disproportionately high number of bookings are from Portugal, probably because the hotel is located in Portugal itself. The second country is the United Kingdom which is approx. 75% behind.
+11. Room type H followed by G yield most average ADR, Meanwhile P and L contributes toward least.
+12. Out of the meals, BB (Bed & Breakfast) is the most ordered meal which is around 77.8% hence hotels should put special attention to this.
+13. The six best perforing agents are with IDs as 9, 240, 14, 250, 7, 241.
+
+## **Challenges**
+(1) A lot of the data were duplicates.
+(2) Incorrect datatype format for the data was present.
+(3) It was challenging to select the best visualization techniques.
+(4) The dataset contained a large number of null values.
+(5) The range in variables was high hence we use log scale for easy visualization.
