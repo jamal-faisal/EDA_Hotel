@@ -117,21 +117,21 @@ We tried to answer following questions
  We’ve drawn many inferences from the above analysis. Here’s a summary of a few of them:
 1. City hotels(61.13%) receive more guests throughout the year compared to Resort hotels(38.87%).
 2.The average ADR for city hotel is more than resort hotel which is around 11.
-3. The booking has increased during the three year period, with maximum in 2016 and a little decrease in 2017. Also, The maximum booking are in thr month of July and August the reason behind it can be holiday season in various countries, weather good for vacction and summer in colleges and schools. Moreover the least are in the month of January, November and December.
+3. The booking has increased during the three year period, with maximum in 2016 and a little decrease in 2017. Also, The maximum booking are in thr month of July and August the reason behind it can be holiday season in various countries, good weather for vacation, and summer in colleges and schools. Moreover, the least are in the months of January, November and December.
 4. With longer night stay the customers usually get better deal hence the ADR decreases with longer stay.
-5. Online TA booking are around 60% followed by offline TA/TO (15.89%) and then Direct booking (13.5%). Promotions and offers should be used to increase the direct booking.
-6. Out of all the hotel booking around 80% is done by TA/TO (Travel Agent/ Tour Operator) hence we shold be focused on this and work toward increasing Direct Distribution channel (14.86%).
-7. Out of all the booking total 27.49% are being canceled hence seeting Non-refundable Rates, Collect deposits, and implement more rigid cancellation policies can tackle this.
-8. Most number of guests are couples and only families prefer both city as well as resort hotels almost equally.
+5. Online TA booking are around 60% followed by offline TA/TO (15.89%) and then Direct booking (13.5%). Promotions and offers should be used to increase direct booking.
+6. Out of all the hotel bookings, around 80% are done by TA/TO (Travel agents Tour tour operators), hence we shold be focused on this and work toward increasing Direct direct distribution channel (14.86%).
+7. Out of all the bookings, 27.49% are being cancelled, hence seeting Non-refundable Rates, Collect deposits, and implement more rigid cancellation policies.
+8. The majority of guests are couples, and families prefer both city as well as resort hotels almost equally.
 9. In all only 3.91% are repeated guests, Low number of repeated guests. Hotels need to target repeated guests since retaining a customer is way less expensive than gaining a new one.
 10. It appears that a disproportionately high number of bookings are from Portugal, probably because the hotel is located in Portugal itself. The second country is the United Kingdom which is approx. 75% behind.
-11. Room type H followed by G yield most average ADR, Meanwhile P and L contributes toward least.
-12. Out of the meals, BB (Bed & Breakfast) is the most ordered meal which is around 77.8% hence hotels should put special attention to this.
-13. The six best perforing agents are with IDs as 9, 240, 14, 250, 7, 241.
+11. Room type H followed by G yield the most average ADR, Meanwhile P and L contribute the least.
+12. Out of the meals, BB (Bed & Breakfast) is the most ordered meal, which is around 77.8% hence hotels should put special attention to this.
+13. The six best perforing agents have IDs as 9, 240, 14, 250, 7, 241.
 
-## **Challenges**
-(1) A lot of the data were duplicates.
-(2) Incorrect datatype format for the data was present.
-(3) It was challenging to select the best visualization techniques.
-(4) The dataset contained a large number of null values.
-(5) The range in variables was high hence we use log scale for easy visualization.
+## **Challenges**  
+(1) A lot of the data were duplicates.  
+(2) Incorrect datatype format for the data was present.  
+(3) It was challenging to select the best visualization techniques.  
+(4) The dataset contained a large number of null values.  
+(5) The range of variables was high hence, we used a log scale for easy visualization.  
